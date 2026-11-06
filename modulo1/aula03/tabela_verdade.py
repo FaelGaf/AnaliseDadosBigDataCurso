@@ -25,10 +25,8 @@ elif pergunta1 == "sim" and pergunta3 == "sim":
     - ônibus;
     - metrô.
     '''
-
-
+    
     trem = input("Você veio de trem?")
     onibus = input("Você veio de ônibus?")
     metro = input("Você veio de metrô?")
-
 

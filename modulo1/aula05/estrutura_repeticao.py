@@ -1,0 +1,4 @@
+
+#Repetições:
+
+#Laço FOR:

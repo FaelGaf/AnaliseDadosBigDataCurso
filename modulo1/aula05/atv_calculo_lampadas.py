@@ -1,8 +1,12 @@
-
 #Atividade 1
 
-print("Seja bem-vindo à calculadora de iluminação")
+'''O objetivo deste exercício é  calcular e imprimir
+o número de lâmpadas necessárias para iluminar
+um determinado cômodo de uma residência.'''
 
-dimensoes = input("Insira as dimensões em metro do cômodo")
-potencia = input("Insira a potência em Watts da lampada")
+#Saudação inicial
+print("Bem-vindo à calculadora de lâmpadas")
 
+potencia = float(input("Digite a potência da lâmpada em Watts"))
+comprimento = float(input("Digite o comprimento do cômodo"))
+largura = float

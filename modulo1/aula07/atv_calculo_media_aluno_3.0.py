@@ -1,4 +1,4 @@
-# Atividade
+# Atividade 1:
 
 '''O objetivo é, dadas as 4 notas de 10 estudantes, calcular 
 sua média e, com base nela, emitir a mensagem de status correspondente: 
